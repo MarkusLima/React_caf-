@@ -17,8 +17,14 @@ Material UI
 Axios
 
 
-### Views
+## PITURES
+![App Screenshot](/docs/Capturar.PNG?text=App+Screenshot+Here)
+![App Screenshot](/docs/Capturar1.PNG?text=App+Screenshot+Here)
+![App Screenshot](/docs/Capturar2.PNG?text=App+Screenshot+Here)
 
-
+## Para buildar
+```
+npm run build
+```
 
 
